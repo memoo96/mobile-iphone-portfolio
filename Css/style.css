@@ -1,0 +1,155 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #e6e3e8;
+}
+.container{
+	margin: auto;
+	width: 500px;
+	height: 870px;
+	background-color: #fafafa;
+	margin-top: 30px;
+	border-radius: 40px;
+	border: 2px solid #000000;
+	padding: 5px;
+}
+.div1{
+	margin: auto;
+	width: 10px;
+	height: 10px;
+	border-radius: 100px;
+    border: 2px solid #000000;
+	margin-top: 20px;
+}
+.div2{
+	margin: auto;
+	width: 80px;
+	height: 6px;
+	border-radius: 30px;
+    border: 2px solid #000000;
+    margin-top: 10px;
+}
+.body{
+	margin: auto;
+	border: 2px solid #000000;
+	height: 670px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.body .b-div1{
+	height: 20px;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 5px;
+}
+.body .b-div1 .signal{
+	float: left;
+	margin-right: 120px;
+}
+.body .b-div1 .signal span{
+	margin-left: 3px;
+	margin-right: 3px;
+	font-size: 16px;
+	font-family:Tahoma;	
+}
+.body .b-div1 .time{
+	float: left;
+	margin-right: 170px;
+}
+.body .b-div1 .time span{
+	font-size: 18px;
+}
+.body .b-div2{
+  overflow: hidden;
+}
+.body .b-div2 ul{
+	list-style-type: none;
+}
+.body .b-div2 ul li{
+	float: left;
+	width: 25%;
+	margin-bottom: 30px;
+}
+.body .b-div2 ul li i{
+	border: 2px solid #000000;
+	padding: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+}
+.body .b-div2 ul li span{
+    font-size: 18px;
+    font-family:Tahoma;	
+}
+.body .b-div2 ul li .spicial{
+	margin-left: 5px;
+}
+.body .b-div3{
+	margin-top: 20px;
+}
+.body .b-div3 .circle1{
+	width: 7px;
+	height: 7px;
+	border-radius: 100px;
+    border: 2px solid #000000;
+    float: left;
+    margin-left: 190px;
+}
+.body .b-div3 .circle2{
+	width: 7px;
+	height: 7px;
+	border-radius: 100px;
+    border: 2px solid #000000;
+    margin-left: 20px;
+     float: left;
+}
+.body .b-div3 .circle3{
+	width: 7px;
+	height: 7px;
+	border-radius: 100px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    margin-left: 250px;
+}
+.body .b-div4{
+	margin-top: 30px;
+}
+.body .b-div4 ul{
+	list-style-type: none;
+}
+.body .b-div4 ul li{
+	float: left;
+	width: 25%;
+	margin-bottom: 30px;
+}
+.body .b-div4 ul li i{
+	border: 2px solid #000000;
+	padding: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+}
+.body .b-div4 ul li span{
+    font-size: 18px;
+    font-family:Tahoma;	
+}
+.body .b-div4 ul li .spicial{
+	margin-left: 7px;
+}
+.outside-div{
+	margin: auto;
+	width:70px;
+	height: 70px;
+	border-radius: 100px;
+    border: 2px solid #000000;
+	margin-top: 40px;
+}
+.outside-div .inside-div{
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+    border: 2px solid #000000;
+    margin: auto;
+    margin-top: 13px;
+}
